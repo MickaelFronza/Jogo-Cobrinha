@@ -1,5 +1,7 @@
-#Hebert
-#15-03-2023
+# Hebert Fronza
+# Materia Python
+# Fabio V Binder
+# Trabalho finalizado dia 15-03-2023
 
 import turtle
 import random
