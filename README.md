@@ -2,6 +2,12 @@
 
 Jogo da Cobrinha foi desenvolvido na linguagem Python para fins acadêmicos, para avaliar deverá baixar o projeto utilizando o repositório. 
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,py,bash,code" />
+  </a>
+</p>
+
 # Dependências
 
 pip install PythonTurtle
