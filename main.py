@@ -31,8 +31,8 @@ def home(x,y):
     turtle.pu()
     turtle.color("black")
     turtle.goto(0,0)
-    turtle.write("Play")
-    turtle.title("Snake Game")
+    turtle.write("PLAY")
+    turtle.title("Jogo da Cobrinha")
     turtle.onscreenclick(start)
     turtle.mainloop()
 
