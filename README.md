@@ -11,7 +11,7 @@ Jogo da Cobrinha foi desenvolvido na linguagem Python para fins acadêmicos, par
 
 # Dependências
 
-pip install PythonTurtle
+#pip install PythonTurtle
 
 # Imagem do Game
 ![image](https://github.com/MickaelFronza/Jogo-Cobrinha/assets/24191077/3e996215-b103-4b43-91a9-fe3766c038fb)
