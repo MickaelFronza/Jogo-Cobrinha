@@ -4,7 +4,7 @@ Jogo da Cobrinha foi desenvolvido na linguagem Python para fins acadêmicos, par
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,py,bash,vscode" />
+    <img src="https://skillicons.dev/icons?i=py,bash,git,vscode" />
   </a>
 </p>
 
