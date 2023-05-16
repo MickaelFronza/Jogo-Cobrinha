@@ -167,7 +167,7 @@ def gameover():
     turtle.goto(0,50)
     turtle.write("Score:" + str(a[0]),align="center",font=(10))
     turtle.goto(200,-200)
-    turtle.write("(Click anywhere to return to the main menu)",align="right",font=(0.0000001))
+    turtle.write("(Clique em qualquer lugar para retornar ao menu principal)",align="right",font=(0.0000001))
     turtle.onscreenclick(home)
     turtle.mainloop()
 
